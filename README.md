@@ -5,6 +5,7 @@ A complete Python-based karaoke system that downloads songs from YouTube, fetche
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20linux%20%7C%20macos-lightgrey.svg)
+![GitHub stars](https://img.shields.io/github/stars/Tensura0/karaoke-player-py?style=social)
 
 ## ✨ Features
 
@@ -48,8 +49,8 @@ A complete Python-based karaoke system that downloads songs from YouTube, fetche
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/terminal-karaoke.git
-   cd Music-player
+   git clone https://github.com/Tensura0/karaoke-player-py.git
+   cd karaoke-player-py
    ```
 
 2. **Install Python dependencies**
@@ -125,7 +126,7 @@ python adjust_timing.py
 ## 📁 Project Structure
 
 ```
-terminal-karaoke/
+karaoke-player-py/
 ├── main.py                    # Main karaoke player
 ├── download_youtube.py        # YouTube audio downloader
 ├── download_lyrics.py         # Lyrics downloader
@@ -211,13 +212,7 @@ pip install -r requirements.txt
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Contributions are welcome! Please check [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Ideas for Contributions
 
@@ -252,8 +247,8 @@ The developers are not responsible for misuse of this software.
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/terminal-karaoke/issues)
-- **Documentation:** Check the guide files in the repository
+- **Issues:** [GitHub Issues](https://github.com/Tensura0/karaoke-player-py/issues)
+- **Discussions:** [GitHub Discussions](https://github.com/Tensura0/karaoke-player-py/discussions)
 
 ## 🗺️ Roadmap
 
@@ -267,7 +262,7 @@ The developers are not responsible for misuse of this software.
 
 ---
 
-**Made with ❤️ and Python**
+**Made with ❤️ and Python by [Tensura0](https://github.com/Tensura0)**
 
 ⭐ Star this repo if you found it helpful!
 
