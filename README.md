@@ -41,7 +41,7 @@ A complete Python-based karaoke system that downloads songs from YouTube, fetche
 
 ### Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12.8 or lower(for pygame support)
 - FFmpeg (for audio conversion)
 - Internet connection (for downloads)
 
